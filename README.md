@@ -1,28 +1,24 @@
 ## E aí! 👋
 
-Sou Adalto Júnior, formado em Sistemas de Informação e Analista de Tecnologia da Informação. Eterno estudante, sempre em busca de novos conhecimentos e desafios, principalmente no mundo da tecnologia! 💻 🚀
+Sou Adalto dos Reis Junior, formado em Sistemas de Informação e Analista de Tecnologia da Informação. Eterno estudante, sempre em busca de novos conhecimentos, principalmente no mundo da programação! 💻 ❤️
 
-O mundo da tecnologia sempre me fascinou e, recentemente, mergulhei de cabeça no universo da programação! ❤️ Escolhi essa área porque realmente amo codar e criar soluções.
+Minha paixão é desenvolvimento, com foco em **Java** e **Spring**. Aqui você encontra projetos focados em aprendizado e prática! 😊
 
-Apesar de curtir diversas áreas da tecnologia, como infraestrutura, redes e segurança, minha verdadeira paixão é desenvolvimento. No momento, meu foco principal é **Java** com **Spring**, e você vai encontrar alguns projetos meus por aqui usando essas tecnologias - a maioria deles focados em aprendizado e prática! 
-
-Fique à vontade para dar uma olhada nos meus projetos e, se quiser trocar ideias sobre tecnologia, é só falar! 😊
+Fique à vontade para explorar e trocar ideias sobre tecnologia! 😉
 
 ## Conexões são sempre bem-vindas! 🙌
 
-<a href="https://www.linkedin.com/in/adrjr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu perfil no LinkedIn"></a>  
+<a href="https://www.linkedin.com/in/adrjr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu perfil no LinkedIn"></a> 
 
 ---
 
 ## Hey there! 👋
 
-I'm Adalto Júnior, graduated in Information Systems and Information Technology Analyst. As an eternal student, I'm always seeking new knowledge and challenges, especially in the tech world! 💻 🚀
+I'm Adalto dos Reis Junior, graduated in Information Systems and Information Technology Analyst. As an eternal student, I'm always seeking new knowledge, especially in the programming world! 💻 ❤️
 
-The tech world has always fascinated me, and I've recently taken the plunge into the programming world! ❤️ I chose this area because I genuinely love coding and creating solutions. 
+My passion lies in development, with a focus on **Java** and **Spring**. Here you'll find projects focused on learning and practice! 😊
 
-Although I enjoy various areas of technology, such as infrastructure, networking, and security, my true passion lies in development. Currently, my main focus is **Java** with **Spring**, and you'll find some of my projects here using these technologies - most of them focused on learning and practice! 
-
-Feel free to check out my projects and, if you want to exchange ideas about technology, just let me know! 😊
+Feel free to explore and exchange ideas about technology! 😉
 
 ## Connection is always welcome! 🙌
 
