@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 ## E aí! 👋
 
 Sou Adalto Júnior, formado em Sistemas de Informação e Analista de Tecnologia da Informação. Eterno estudante, sempre em busca de novos conhecimentos e desafios, principalmente no mundo da tecnologia! 💻 🚀
