@@ -8,7 +8,7 @@ Apesar de curtir diversas áreas da tecnologia, como infraestrutura, redes e seg
 
 Fique à vontade para dar uma olhada nos meus projetos e, se quiser trocar ideias sobre tecnologia, é só falar! 😊
 
-## Conexões são sempre bem-vindos! 🙌
+## Conexões são sempre bem-vindas! 🙌
 
 <a href="https://www.linkedin.com/in/adrjr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu perfil no LinkedIn"></a>  
 
