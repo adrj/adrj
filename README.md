@@ -8,7 +8,7 @@ Here you'll find projects focused on expanding my skills and putting them into p
 
 🚀 **What I'm currently working with:**
 
-`Java` `Spring` 
+`Java` `Spring` `PostgreSQL`
 
 <br/>
 
